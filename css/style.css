@@ -22,10 +22,7 @@ display: flex;
 .slide li {
   flex-shrink: 0;
 width:80vw ;
-max-width: 500px;
-margin: 0 20px;
+max-width: 300px;
+margin: 0 -60px;
 }
 
-.slide {
-  transform: translate3d(-200px, 0px, 0px)
-}
